@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T15:36:20.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="3hfD0-srEJQdb3rQiuTW" version="13.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-13T13:17:15.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="qdItXPUgKBc4HcsW9Q8m" version="13.6.10" type="github" pages="3">
   <diagram id="sdKFwLvwNyGhgGaRkgza" name="誕生">
     <mxGraphModel dx="1161" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,12 +7,12 @@
         <mxCell id="dcLhTKNCRthWgihFbN7n-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;原核生物&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="20" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dcLhTKNCRthWgihFbN7n-3" target="tf8xc0by1lTLq6sz3bfM-8">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dcLhTKNCRthWgihFbN7n-3" target="tf8xc0by1lTLq6sz3bfM-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dcLhTKNCRthWgihFbN7n-3" target="dcLhTKNCRthWgihFbN7n-7">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dcLhTKNCRthWgihFbN7n-3" target="dcLhTKNCRthWgihFbN7n-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="180" as="targetPoint" />
           </mxGeometry>
@@ -23,7 +23,7 @@
         <mxCell id="dcLhTKNCRthWgihFbN7n-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;原核生物&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="29" y="220" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--16" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;width=-4;" edge="1" parent="1">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--16" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;width=-4;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="79" y="390" as="targetPoint" />
             <mxPoint x="79" y="280" as="sourcePoint" />
@@ -38,7 +38,7 @@
         <mxCell id="dcLhTKNCRthWgihFbN7n-8" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;DNAを守る核を持つ&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;触手状の突起を持つ&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="464" y="240" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.03;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="dcLhTKNCRthWgihFbN7n-9" target="dcLhTKNCRthWgihFbN7n-7">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.03;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" parent="1" source="dcLhTKNCRthWgihFbN7n-9" target="dcLhTKNCRthWgihFbN7n-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dcLhTKNCRthWgihFbN7n-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;原核生物&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -47,7 +47,7 @@
         <mxCell id="dcLhTKNCRthWgihFbN7n-10" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;酸素と糖から&lt;br&gt;二酸化炭素と水と&lt;br&gt;ATPエネルギーを生成&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="194" y="240" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--17" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dcLhTKNCRthWgihFbN7n-11">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--17" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dcLhTKNCRthWgihFbN7n-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="380" as="targetPoint" />
           </mxGeometry>
@@ -64,8 +64,8 @@
         <mxCell id="dcLhTKNCRthWgihFbN7n-14" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;呼吸と&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13px&quot;&gt;光合成と&lt;/span&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;核を持つ&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="490" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dcLhTKNCRthWgihFbN7n-18" value="&lt;span style=&quot;text-align: left ; text-indent: 0px ; display: inline ; float: none&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;原核生物が平和に生活していた。&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;仲間を取り入れる真核生物が現れた。&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;真核生物に対抗するため、酸素と糖を生成する&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;シアノバクテリアが発生&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;しかし、真核生物はシアノバクテリアの仲間の原核生物を取り入れ&lt;br&gt;ミトコンドリアに進化する。&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;やがてミトコンドリアはシアノバクテリアを取り入れ葉緑体を持つ。&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;全球凍結直後に大陸が風化しリンが大量に放出された。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;それによりシアノバクテリアと酸素が大量発生する。&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;真核生物と別れた&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;古細菌は、生物に&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;寄生し全身を白くさせる&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="640" width="770" height="410" as="geometry" />
+        <mxCell id="dcLhTKNCRthWgihFbN7n-18" value="&lt;span style=&quot;text-align: left ; text-indent: 0px ; display: inline ; float: none&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;食糧が不足している時代。原核生物から4つの生物が生まれた。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;他の生物を取り入れることで食糧不足を解決しようとする真核生物&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;二酸化炭素から、毒とエネルギーを生成する&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;シアノバクテリア&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;毒である酸素からエネルギーを生成するプロテオバクテリア&lt;br&gt;&lt;br&gt;成長している真核生物の核をすり替え自分の体にする古細菌が主人公&lt;br&gt;&lt;br&gt;プロテオバクテリアの原核生物を取り入れミトコンドリアに進化する。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;やがてミトコンドリアはシアノバクテリアを取り入れ葉緑体を持つ。&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;酸素を克服しシアノバクテリアと葉緑体を倒すのが目的&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;勝利すると、氷が解け食糧であるリンが全ての生物に行き渡り、&lt;/span&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;ハッピーエンド&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="770" height="510" as="geometry" />
         </mxCell>
         <mxCell id="tf8xc0by1lTLq6sz3bfM-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;プロテオバクテリア&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="214" y="200" width="100" height="20" as="geometry" />
@@ -73,12 +73,12 @@
         <mxCell id="tf8xc0by1lTLq6sz3bfM-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;シアノバクテリア&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="34" y="200" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.389;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tf8xc0by1lTLq6sz3bfM-8" target="tf8xc0by1lTLq6sz3bfM-2">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.389;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tf8xc0by1lTLq6sz3bfM-8" target="tf8xc0by1lTLq6sz3bfM-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.68;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tf8xc0by1lTLq6sz3bfM-8" target="tf8xc0by1lTLq6sz3bfM-1">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.68;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tf8xc0by1lTLq6sz3bfM-8" target="tf8xc0by1lTLq6sz3bfM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="180" as="targetPoint" />
           </mxGeometry>
@@ -95,54 +95,54 @@
         <mxCell id="tf8xc0by1lTLq6sz3bfM-12" value="&lt;font style=&quot;font-size: 10px&quot;&gt;寄生体&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="709" y="200" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="agNdZaxh8USDzSz3yvO0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="agNdZaxh8USDzSz3yvO0-14">
+        <mxCell id="agNdZaxh8USDzSz3yvO0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--10" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--10" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="529" y="140" as="sourcePoint" />
             <mxPoint x="730" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--11" value="" style="endArrow=classic;html=1;entryX=0.46;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tf8xc0by1lTLq6sz3bfM-12">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--11" value="" style="endArrow=classic;html=1;entryX=0.46;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="tf8xc0by1lTLq6sz3bfM-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="140" as="sourcePoint" />
             <mxPoint x="780" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--14" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="230" as="sourcePoint" />
             <mxPoint x="400" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2eHayet1ZgRFSzuWHd--18" value="" style="endArrow=classic;html=1;entryX=0.471;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dcLhTKNCRthWgihFbN7n-13">
+        <mxCell id="n2eHayet1ZgRFSzuWHd--18" value="" style="endArrow=classic;html=1;entryX=0.471;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dcLhTKNCRthWgihFbN7n-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="194" y="380" as="sourcePoint" />
             <mxPoint x="244" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1d1eChOrMzifT9jOygcC-1" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;width=-4;" edge="1" parent="1">
+        <mxCell id="1d1eChOrMzifT9jOygcC-1" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;width=-4;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="733.5" y="380" as="targetPoint" />
             <mxPoint x="733.5" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1d1eChOrMzifT9jOygcC-2" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dcLhTKNCRthWgihFbN7n-11">
+        <mxCell id="1d1eChOrMzifT9jOygcC-2" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dcLhTKNCRthWgihFbN7n-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="495" y="380" as="targetPoint" />
             <mxPoint x="735" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1d1eChOrMzifT9jOygcC-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;核を乗っ取るミトコンドリア&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="1d1eChOrMzifT9jOygcC-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;核を乗っ取るミトコンドリア&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="479" y="470" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1d1eChOrMzifT9jOygcC-4" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;呼吸と&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13px&quot;&gt;光合成と&lt;/span&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;核を持つ&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="490" width="160" height="20" as="geometry" />
+        <mxCell id="1d1eChOrMzifT9jOygcC-4" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;呼吸&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13px&quot;&gt;と乗っ取りと&lt;/span&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;核を持つ&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="534" y="490" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1d1eChOrMzifT9jOygcC-5" value="" style="endArrow=classic;html=1;entryX=0.471;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1d1eChOrMzifT9jOygcC-3">
+        <mxCell id="1d1eChOrMzifT9jOygcC-5" value="" style="endArrow=classic;html=1;entryX=0.471;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="1d1eChOrMzifT9jOygcC-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="609" y="380" as="sourcePoint" />
             <mxPoint x="659" y="330" as="targetPoint" />
@@ -156,6 +156,109 @@
       <root>
         <mxCell id="IXbR1RIGrK287yiq5gu8-0" />
         <mxCell id="IXbR1RIGrK287yiq5gu8-1" parent="IXbR1RIGrK287yiq5gu8-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SkFEG5W9yUXfUMN0flJ_" name="全て">
+    <mxGraphModel dx="1161" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-0" />
+        <mxCell id="1yuScJVO67UoSWmpSwCL-1" parent="1yuScJVO67UoSWmpSwCL-0" />
+        <mxCell id="1yuScJVO67UoSWmpSwCL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-2" target="1yuScJVO67UoSWmpSwCL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-2" value="誕生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-6" target="1yuScJVO67UoSWmpSwCL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-6" value="エディアカラ紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-8" target="1yuScJVO67UoSWmpSwCL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-8" value="カンブリア紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-10" target="1yuScJVO67UoSWmpSwCL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-10" value="オルドビス紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-12" target="1yuScJVO67UoSWmpSwCL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-12" value="シルル紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-14" target="1yuScJVO67UoSWmpSwCL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-14" value="デボン紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-16" target="1yuScJVO67UoSWmpSwCL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-16" value="石炭紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-18" target="1yuScJVO67UoSWmpSwCL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-18" value="ベルム紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-22" target="1yuScJVO67UoSWmpSwCL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-22" value="三畳紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-24" target="1yuScJVO67UoSWmpSwCL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-24" value="ジュラ紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-26" target="1yuScJVO67UoSWmpSwCL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-26" value="白亜紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-28" target="1yuScJVO67UoSWmpSwCL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-28" value="第三紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-30" target="1yuScJVO67UoSWmpSwCL-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-30" value="第四紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-32" value="現在" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="50" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yuScJVO67UoSWmpSwCL-36" value="食糧不足の中、真核生物が徘徊したり、光合成や呼吸をするものが現れる。&lt;br&gt;酸素を克服して葉緑体を倒した後に、氷が解けて食料問題が解決する。&lt;br&gt;古細菌、真核生物、シアノバクテリア(光合成)、プロテオバクテリア(呼吸)&lt;br&gt;ミトコンドリア、葉緑体を持つミトコンドリア" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="200" y="40" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVdrtR6cauRa4HXmPG6t-0" value="資源を絡めとる放射線状の生物が増える。ぶつかってもダメージを受けることがない。&lt;br&gt;目的は、奥に潜む死体を食べること。&lt;br&gt;&lt;br&gt;海綿類と三葉虫形類の出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="200" y="180" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVdrtR6cauRa4HXmPG6t-1" value="生物が生物を食べるようになり殻や骨格ができる。穴を掘り隠れるものも現れる。&lt;br&gt;目的は、全ての生物を見ること。&lt;br&gt;&lt;br&gt;バージェス動物群多様な動物門が化石として現われた。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="200" y="320" width="600" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="http://www.jj.em-net.ne.jp/~okapi/life/life3/history/ediacaran1j.html" link="http://www.jj.em-net.ne.jp/~okapi/life/life3/history/ediacaran1j.html" id="lAz7ga_qWfzLmbtv1euI-0">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+            <mxGeometry x="200" y="160" width="370" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
