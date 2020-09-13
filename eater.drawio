@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T13:17:15.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="qdItXPUgKBc4HcsW9Q8m" version="13.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-13T14:35:17.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="zZLPnTjyE1HJ9FV4Ek2T" version="13.6.10" type="github" pages="3">
   <diagram id="sdKFwLvwNyGhgGaRkgza" name="誕生">
     <mxGraphModel dx="1161" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,7 +251,7 @@
         <mxCell id="mVdrtR6cauRa4HXmPG6t-0" value="資源を絡めとる放射線状の生物が増える。ぶつかってもダメージを受けることがない。&lt;br&gt;目的は、奥に潜む死体を食べること。&lt;br&gt;&lt;br&gt;海綿類と三葉虫形類の出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
           <mxGeometry x="200" y="180" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mVdrtR6cauRa4HXmPG6t-1" value="生物が生物を食べるようになり殻や骨格ができる。穴を掘り隠れるものも現れる。&lt;br&gt;目的は、全ての生物を見ること。&lt;br&gt;&lt;br&gt;バージェス動物群多様な動物門が化石として現われた。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="mVdrtR6cauRa4HXmPG6t-1" value="生物が生物を食べるようになり殻や骨格ができる。いろいろな条件で自身を進化させることができる。&lt;br&gt;目的は、全ての生物を見ること、アノマロカリスを倒すこと。&lt;br&gt;&lt;br&gt;バージェス動物群にはほぼ全ての動物門が化石として現われ、穴を掘り隠れるものもいた。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
           <mxGeometry x="200" y="320" width="600" height="60" as="geometry" />
         </mxCell>
         <UserObject label="http://www.jj.em-net.ne.jp/~okapi/life/life3/history/ediacaran1j.html" link="http://www.jj.em-net.ne.jp/~okapi/life/life3/history/ediacaran1j.html" id="lAz7ga_qWfzLmbtv1euI-0">
@@ -259,6 +259,18 @@
             <mxGeometry x="200" y="160" width="370" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="6yrux2w9ju4IjwByjbDE-0" value="カンブリア紀とは大きく異なる動物群が主体。時間経過により体力が減る。寒冷化&lt;br&gt;目的は、全ての生物を見ること、ウミサソリを倒すこと。85%の生物が大量絶滅する。&lt;br&gt;&lt;br&gt;オウムガイ、ウミサソリ、魚類の無顎類、コノドントの出現。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="200" y="460" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6yrux2w9ju4IjwByjbDE-2" value="大量絶滅を生き延びた三葉虫やウミサソリが繁栄。脊椎動物の魚類が次第に多様性を増していた。&lt;br&gt;目的は、陸上近くまで移動しダニを見ること。&lt;br&gt;&lt;br&gt;最古の陸上植物、ヒトデ、アンモナイト、ヘミキクラスピス、甲冑魚が出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="200" y="600" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6yrux2w9ju4IjwByjbDE-3" value="アンモナイトや魚類が繁栄。魚の時代とも言われる。時間経過により体力が減る。寒冷化&lt;br&gt;目的は、淡水域まで進出し肺魚を見ること。80%の生物が大量絶滅。板皮類や無顎類の甲冑魚が絶滅する。&lt;br&gt;&lt;br&gt;強力な顎で獲物を噛み砕くことができる板皮類ダンクルオステウス、昆虫類、クモ類、板皮魚類" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="200" y="740" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6yrux2w9ju4IjwByjbDE-4" value="地球上は森林に覆われた。海中には倒木、川には流木。進化すると陸にも進出できる。&lt;br&gt;目的は、海の奥または陸の奥まで進むこと。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxGeometry x="200" y="880" width="600" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
