@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T13:35:28.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="GblsBQnRQ9xhWm6luM_M" version="13.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-30T13:37:54.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="-gL5_UWPoE0WyNsQ8ITa" version="13.8.8" type="github" pages="4">
   <diagram id="sdKFwLvwNyGhgGaRkgza" name="誕生">
-    <mxGraphModel dx="1161" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="791" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,6 +297,38 @@
         </mxCell>
         <mxCell id="lGA1HH7WPotqnpYy_twi-8" value="節足" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
           <mxGeometry y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2kghym_90JpfCD6E1cLy" name="ページ4">
+    <mxGraphModel dx="1656" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-0" />
+        <mxCell id="Z0QKppk-NlhrFME5SWek-1" parent="Z0QKppk-NlhrFME5SWek-0" />
+        <mxCell id="Z0QKppk-NlhrFME5SWek-2" value="&lt;font style=&quot;font-size: 25px&quot;&gt;ご挨拶&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="20" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;初めて応募させていただきます。藤本 凌と申します。&lt;br&gt;開発者によるYoutubeの投稿で今回の募集を拝見しました。&lt;br&gt;競争心から一つのスマホアプリゲームを開発しました。&lt;br&gt;細菌から様々な生物に進化することをコンセプトとしたゲームです。&lt;br&gt;14の時代で繁栄していた生物とその頂点、進化の大爆発と大量絶滅を紹介したいと思っています。&lt;br&gt;&lt;br&gt;取り急ぎ開発できた部分は原生代をモデルにした細菌の時代です。&lt;br&gt;生物を取り込む生物を操作して、酸素を吐き出す葉緑体を倒すことでゲームクリアになります。&lt;br&gt;プロテオバクテリアを取り込んで酸素に耐性を得る必要があります。&lt;br&gt;このゲームの全体像と細菌時代のストーリー案を後述いたします。&lt;br&gt;実際にプレイしていただけたら幸いです。&lt;br&gt;何卒よろしくお願い致します。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="80" width="690" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-4" value="&lt;font style=&quot;font-size: 25px&quot;&gt;開発環境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="360" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;言語:&lt;/b&gt; Swift&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;プラットフォーム: &lt;/b&gt;スマホアプリ(ios)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;プログラミング、画像編集を私個人で行っております。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;余裕があればアンドロイド用も開発したいと思います。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="420" width="690" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-6" value="&lt;font style=&quot;font-size: 25px&quot;&gt;細菌時代のストーリー案&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="590" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;食糧のリンが不足している時代で原核生物から4つの生物が生まれました。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;他の生物を取り入れることで食糧不足を解決しようとする真核生物&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;二酸化炭素から、毒とエネルギーを生成するシアノバクテリア&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;毒である酸素からエネルギーを生成するプロテオバクテリア&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;成長している真核生物の核をすり替え自分の体にする古細菌&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;酸素を克服し仇である葉緑体を倒して今回はゲームクリアです。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;温暖化により氷が解け食糧であるリンが全ての生物に行き渡り、ハッピーエンドになります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;食糧が増えることによりいけなかったエリアにも行けるようになります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;栄養素が存在しなかったところに行くと、そこに住む巨大な生物に食べられるイベントを用意しました。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="650" width="730" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-8" value="&lt;font style=&quot;font-size: 25px&quot;&gt;このゲームの全体像&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="920" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0QKppk-NlhrFME5SWek-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;このゲームは14の時代の様々な生物(例:細菌,魚,恐竜)を成長進化させることがコンセプトです。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;初めて生物を食べたり見たり移動することで、進化や時代の切り替わりが可能になります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;登場する植物や古細菌以外の全ての生物に進化できるようにします。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;生物や障害物に個別ギミック(例:ダッシュ,生成,耐性,飛翔)を複数想定しております。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;それぞれの時代ごとに大きな問題(進化の大爆発や大量絶滅)があります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;説明や数値のかわりにゲージ表示などで対応しています。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="980" width="730" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
