@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T13:42:04.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="32UdWZVG3VZ6cKzq-w_S" version="13.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-30T13:46:04.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YQOprGrVXj0SDF-eCkiN" version="13.8.8" type="github" pages="5">
   <diagram id="sdKFwLvwNyGhgGaRkgza" name="誕生">
     <mxGraphModel dx="791" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,15 +302,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2kghym_90JpfCD6E1cLy" name="ページ4">
-    <mxGraphModel dx="1656" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Z0QKppk-NlhrFME5SWek-0" />
         <mxCell id="Z0QKppk-NlhrFME5SWek-1" parent="Z0QKppk-NlhrFME5SWek-0" />
         <mxCell id="Z0QKppk-NlhrFME5SWek-2" value="&lt;font style=&quot;font-size: 25px&quot;&gt;ご挨拶&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
           <mxGeometry x="20" y="20" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QKppk-NlhrFME5SWek-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;初めて応募させていただきます。藤本 凌と申します。&lt;br&gt;開発者によるYoutubeの投稿で今回の募集を拝見しました。&lt;br&gt;競争心から一つのスマホアプリゲームを開発しました。&lt;br&gt;細菌から様々な生物に進化することをコンセプトとしたゲームです。&lt;br&gt;14の時代で繁栄していた生物とその頂点、進化の大爆発と大量絶滅を紹介したいと思っています。&lt;br&gt;&lt;br&gt;取り急ぎ開発できた部分は原生代をモデルにした細菌の時代です。&lt;br&gt;生物を取り込む生物を操作して、酸素を吐き出す葉緑体を倒すことでゲームクリアになります。&lt;br&gt;プロテオバクテリアを取り込んで酸素に耐性を得る必要があります。&lt;br&gt;このゲームの全体像と細菌時代のストーリー案を後述いたします。&lt;br&gt;実際にプレイしていただけたら幸いです。&lt;br&gt;何卒よろしくお願い致します。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
-          <mxGeometry x="20" y="80" width="690" height="230" as="geometry" />
+        <mxCell id="Z0QKppk-NlhrFME5SWek-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;初めて応募させていただきます。藤本 凌と申します。&lt;br&gt;開発者によるYoutubeの投稿で今回の募集を拝見しました。&lt;br&gt;競争心から一つのスマホアプリゲームを開発しました。&lt;br&gt;細菌から様々な生物に進化することをコンセプトとしたゲームです。&lt;br&gt;14の時代で繁栄していた生物とその頂点、進化の大爆発と大量絶滅を紹介したいと思っています。&lt;br&gt;&lt;br&gt;取り急ぎ開発できた部分は原生代をモデルにした細菌の時代です。&lt;br&gt;生物を取り込む生物を操作して、酸素を吐き出す葉緑体を倒すことでゲームクリアになります。&lt;br&gt;プロテオバクテリアを取り込んで酸素に耐性を得る必要があります。&lt;br&gt;このゲームの全体像と細菌時代のストーリー案を後述いたします。&lt;br&gt;開発時間がかかりアプリ、PDFファイル共にデザインが稚拙になってしまいました。&lt;br&gt;申し訳ありませんが、実際にプレイしていただき雰囲気を感じていただけたら幸いです。&lt;br&gt;何卒よろしくお願い致します。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
+          <mxGeometry x="20" y="80" width="690" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Z0QKppk-NlhrFME5SWek-4" value="&lt;font style=&quot;font-size: 25px&quot;&gt;開発環境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
           <mxGeometry x="20" y="360" width="160" height="50" as="geometry" />
