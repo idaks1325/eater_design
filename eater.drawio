@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T13:37:54.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="-gL5_UWPoE0WyNsQ8ITa" version="13.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-30T13:42:04.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="32UdWZVG3VZ6cKzq-w_S" version="13.8.8" type="github" pages="5">
   <diagram id="sdKFwLvwNyGhgGaRkgza" name="誕生">
     <mxGraphModel dx="791" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -329,6 +329,20 @@
         </mxCell>
         <mxCell id="Z0QKppk-NlhrFME5SWek-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;このゲームは14の時代の様々な生物(例:細菌,魚,恐竜)を成長進化させることがコンセプトです。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;初めて生物を食べたり見たり移動することで、進化や時代の切り替わりが可能になります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;登場する植物や古細菌以外の全ての生物に進化できるようにします。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;生物や障害物に個別ギミック(例:ダッシュ,生成,耐性,飛翔)を複数想定しております。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;それぞれの時代ごとに大きな問題(進化の大爆発や大量絶滅)があります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;説明や数値のかわりにゲージ表示などで対応しています。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Z0QKppk-NlhrFME5SWek-1">
           <mxGeometry x="20" y="980" width="730" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Bau7FTkN70S3Zy_T6Uq_" name="ページ5">
+    <mxGraphModel dx="2318" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="F12FNPaklkZpg-c2JIv0-0" />
+        <mxCell id="F12FNPaklkZpg-c2JIv0-1" parent="F12FNPaklkZpg-c2JIv0-0" />
+        <mxCell id="E5N9zOHWl7Hiq2-pF_b--0" value="&lt;font style=&quot;font-size: 25px&quot;&gt;自己紹介&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F12FNPaklkZpg-c2JIv0-1">
+          <mxGeometry x="345" y="240" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E5N9zOHWl7Hiq2-pF_b--2" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;以上、読んでいただきありがとうございます。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;現在はホームページ製作会社に勤めております。藤本凌と申します。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;今年21歳ですが好奇心から旅館や工場、便利屋で働いていました。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;プログラミング言語はアプリ開発にSwift、ホームページにPHPなど、自宅IotにPythonを勉強しました。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;AIと会話しているように私が返信するチャットアプリや、ビットコインを使った匿名ECサイト、スマホで自宅の電気を操作するIotを製作しました。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;絵は自信ありませんが全国絵画コンクールに入賞(応募37万点のうち30人)しテレビに出演した経験があります。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;今回紹介させていただきました「進化をコンセプトにしたゲーム」の他にも、漫画のように敵を倒し時間を巻き戻すことをコンセプトにしたゲームや、SNSと小説を混合させたサービスを考えております。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;この機会に開発に専念させていただきたいです。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;何卒よろしくお願い致します。&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="F12FNPaklkZpg-c2JIv0-1">
+          <mxGeometry x="80" y="320" width="690" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
