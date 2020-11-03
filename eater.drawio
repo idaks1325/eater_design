@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T10:55:12.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="04PqExu7P-3TJIbzA6cK" version="13.8.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-03T06:46:36.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ONzfF2-kh5YqfCfGCDzA" version="13.8.8" type="github" pages="5">
   <diagram id="sdKFwLvwNyGhgGaRkgza" name="誕生">
-    <mxGraphModel dx="852" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8yZFWJplafrmQKo9IH1-" name="エディアカラ紀">
-    <mxGraphModel dx="1161" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IXbR1RIGrK287yiq5gu8-0" />
         <mxCell id="IXbR1RIGrK287yiq5gu8-1" parent="IXbR1RIGrK287yiq5gu8-0" />
@@ -160,181 +160,181 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SkFEG5W9yUXfUMN0flJ_" name="全て">
-    <mxGraphModel dx="1161" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1yuScJVO67UoSWmpSwCL-0" />
         <mxCell id="1yuScJVO67UoSWmpSwCL-1" parent="1yuScJVO67UoSWmpSwCL-0" />
-        <mxCell id="1yuScJVO67UoSWmpSwCL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-2" target="1yuScJVO67UoSWmpSwCL-6">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-2" target="1yuScJVO67UoSWmpSwCL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-2" value="誕生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-2" value="誕生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-6" target="1yuScJVO67UoSWmpSwCL-8">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-6" target="1yuScJVO67UoSWmpSwCL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-6" value="エディアカラ紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-6" value="エディアカラ紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-8" target="1yuScJVO67UoSWmpSwCL-10">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-8" target="1yuScJVO67UoSWmpSwCL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-8" value="カンブリア紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-8" value="カンブリア紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-10" target="1yuScJVO67UoSWmpSwCL-12">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-10" target="1yuScJVO67UoSWmpSwCL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-10" value="オルドビス紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-10" value="オルドビス紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-12" target="1yuScJVO67UoSWmpSwCL-14">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-12" target="1yuScJVO67UoSWmpSwCL-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-12" value="シルル紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-12" value="シルル紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-14" target="1yuScJVO67UoSWmpSwCL-16">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-14" target="1yuScJVO67UoSWmpSwCL-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-14" value="デボン紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-14" value="デボン紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-16" target="1yuScJVO67UoSWmpSwCL-18">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-16" target="1yuScJVO67UoSWmpSwCL-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-16" value="石炭紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-16" value="石炭紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-18" target="1yuScJVO67UoSWmpSwCL-22">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-18" target="1yuScJVO67UoSWmpSwCL-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-18" value="ベルム紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-18" value="ベルム紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-22" target="1yuScJVO67UoSWmpSwCL-24">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-22" target="1yuScJVO67UoSWmpSwCL-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-22" value="三畳紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-22" value="三畳紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-24" target="1yuScJVO67UoSWmpSwCL-26">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-24" target="1yuScJVO67UoSWmpSwCL-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-24" value="ジュラ紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-24" value="ジュラ紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-26" target="1yuScJVO67UoSWmpSwCL-28">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-26" target="1yuScJVO67UoSWmpSwCL-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-26" value="白亜紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-26" value="白亜紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-28" target="1yuScJVO67UoSWmpSwCL-30">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-28" target="1yuScJVO67UoSWmpSwCL-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-28" value="第三紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-28" value="第三紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-30" target="1yuScJVO67UoSWmpSwCL-32">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" source="1yuScJVO67UoSWmpSwCL-30" target="1yuScJVO67UoSWmpSwCL-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-30" value="第四紀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-30" value="第四紀" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-32" value="現在" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-32" value="現在" style="whiteSpace=wrap;html=1;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="50" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yuScJVO67UoSWmpSwCL-36" value="食糧不足の中、真核生物が徘徊したり、光合成や呼吸をするものが現れる。&lt;br&gt;酸素を克服して葉緑体を倒した後に、氷が解けて食料問題が解決する。&lt;br&gt;古細菌、真核生物、シアノバクテリア(光合成)、プロテオバクテリア(呼吸)&lt;br&gt;ミトコンドリア、葉緑体を持つミトコンドリア" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="1yuScJVO67UoSWmpSwCL-36" value="食糧不足の中、真核生物が徘徊したり、光合成や呼吸をするものが現れる。&lt;br&gt;酸素を克服して葉緑体を倒した後に、氷が解けて食料問題が解決する。&lt;br&gt;古細菌、真核生物、シアノバクテリア(光合成)、プロテオバクテリア(呼吸)&lt;br&gt;ミトコンドリア、葉緑体を持つミトコンドリア" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="200" y="40" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mVdrtR6cauRa4HXmPG6t-0" value="資源を絡めとる放射線状の生物が増える。ぶつかってもダメージを受けることがない。&lt;br&gt;目的は、奥に潜む死体を食べること。&lt;br&gt;&lt;br&gt;海綿類と三葉虫形類の出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="mVdrtR6cauRa4HXmPG6t-0" value="資源を絡めとる放射線状の生物が増える。ぶつかってもダメージを受けることがない。&lt;br&gt;目的は、奥に潜む死体を食べること。&lt;br&gt;&lt;br&gt;海綿類と三葉虫形類の出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="200" y="180" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mVdrtR6cauRa4HXmPG6t-1" value="生物が生物を食べるようになり殻や骨格ができる。いろいろな条件で自身を進化させることができる。&lt;br&gt;目的は、全ての生物を見ること、子供を産むこと&lt;br&gt;&lt;br&gt;覇者アノマロカリス、ピカイア。ほぼ全ての動物門が化石として現われ、穴を掘り隠れるものもいた。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="mVdrtR6cauRa4HXmPG6t-1" value="生物が生物を食べるようになり殻や骨格ができる。いろいろな条件で自身を進化させることができる。&lt;br&gt;目的は、全ての生物を見ること、子供を産むこと&lt;br&gt;&lt;br&gt;覇者アノマロカリス、ピカイア。ほぼ全ての動物門が化石として現われ、穴を掘り隠れるものもいた。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="200" y="320" width="600" height="60" as="geometry" />
         </mxCell>
         <UserObject label="http://www.jj.em-net.ne.jp/~okapi/life/life3/history/ediacaran1j.html" link="http://www.jj.em-net.ne.jp/~okapi/life/life3/history/ediacaran1j.html" id="lAz7ga_qWfzLmbtv1euI-0">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
             <mxGeometry x="200" y="160" width="370" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6yrux2w9ju4IjwByjbDE-0" value="カンブリア紀とは大きく異なる動物群が主体。時間経過により体力が減る。寒冷化&lt;br&gt;目的は、全ての生物を見ること、ウミサソリを倒すこと。85%の生物が大量絶滅する。&lt;br&gt;&lt;br&gt;覇者ウミサソリ、オウムガイ、魚類の無顎類、コノドントの出現。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="6yrux2w9ju4IjwByjbDE-0" value="カンブリア紀とは大きく異なる動物群が主体。時間経過により体力が減る。寒冷化&lt;br&gt;目的は、全ての生物を見ること、ウミサソリを倒すこと。85%の生物が大量絶滅する。&lt;br&gt;&lt;br&gt;覇者ウミサソリ、オウムガイ、魚類の無顎類、コノドントの出現。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="200" y="460" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6yrux2w9ju4IjwByjbDE-2" value="大量絶滅を生き延びた三葉虫やウミサソリが繁栄。脊椎動物の魚類が次第に多様性を増していた。&lt;br&gt;目的は、陸上近くまで移動しダニを見ること。&lt;br&gt;&lt;br&gt;ウミサソリ、最古の陸上植物、ヒトデ、アンモナイト、ヘミキクラスピス、甲冑魚が出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="6yrux2w9ju4IjwByjbDE-2" value="大量絶滅を生き延びた三葉虫やウミサソリが繁栄。脊椎動物の魚類が次第に多様性を増していた。&lt;br&gt;目的は、陸上近くまで移動しダニを見ること。&lt;br&gt;&lt;br&gt;ウミサソリ、最古の陸上植物、ヒトデ、アンモナイト、ヘミキクラスピス、甲冑魚が出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="200" y="600" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6yrux2w9ju4IjwByjbDE-3" value="アンモナイトや魚類が繁栄。魚の時代とも言われる。四足動物。時間経過により体力が減る。寒冷化&lt;br&gt;目的は、淡水域まで進出し肺魚を見ること。80%の生物が大量絶滅。板皮類や無顎類の甲冑魚が絶滅する。&lt;br&gt;&lt;br&gt;恐魚ダンクルオステウス、昆虫類、クモ類、板皮魚類" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="6yrux2w9ju4IjwByjbDE-3" value="アンモナイトや魚類が繁栄。魚の時代とも言われる。四足動物。時間経過により体力が減る。寒冷化&lt;br&gt;目的は、淡水域まで進出し肺魚を見ること。80%の生物が大量絶滅。板皮類や無顎類の甲冑魚が絶滅する。&lt;br&gt;&lt;br&gt;恐魚ダンクルオステウス、昆虫類、クモ類、板皮魚類" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="200" y="740" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6yrux2w9ju4IjwByjbDE-4" value="地球上は森林に覆われた。海中には倒木、川には流木。進化すると陸にも進出できる。&lt;br&gt;目的は、海の奥または陸の奥まで進むこと。陸上に進出する&lt;br&gt;&lt;br&gt;恐竜" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="6yrux2w9ju4IjwByjbDE-4" value="地球上は森林に覆われた。海中には倒木、川には流木。進化すると陸にも進出できる。&lt;br&gt;目的は、海の奥または陸の奥まで進むこと。陸上に進出する&lt;br&gt;&lt;br&gt;恐竜" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry x="200" y="880" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-0" value="魚" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-0" value="魚" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="640" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-1" value="節足" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-1" value="節足" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="460" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-2" value="節足" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-2" value="節足" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="320" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-3" value="植物" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-3" value="植物" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="40" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-4" value="植物" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-4" value="植物" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-5" value="魚" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-5" value="魚" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="740" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-6" value="両生類" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-6" value="両生類" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="880" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-7" value="昆虫" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-7" value="昆虫" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="920" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lGA1HH7WPotqnpYy_twi-8" value="節足" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1yuScJVO67UoSWmpSwCL-1">
+        <mxCell id="lGA1HH7WPotqnpYy_twi-8" value="節足" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1yuScJVO67UoSWmpSwCL-1" vertex="1">
           <mxGeometry y="600" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2kghym_90JpfCD6E1cLy" name="ページ4">
-    <mxGraphModel dx="852" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Z0QKppk-NlhrFME5SWek-0" />
         <mxCell id="Z0QKppk-NlhrFME5SWek-1" parent="Z0QKppk-NlhrFME5SWek-0" />
         <mxCell id="Z0QKppk-NlhrFME5SWek-2" value="&lt;font style=&quot;font-size: 25px&quot;&gt;ご挨拶&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="20" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QKppk-NlhrFME5SWek-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;初めて応募させていただきます。藤本 凌と申します。&lt;br&gt;開発者によるYoutubeの投稿で今回の募集を拝見しました。&lt;br&gt;競争心から一つのスマホアプリゲームを開発しました。&lt;br&gt;細菌から様々な生物に進化することをコンセプトとしたゲームです。&lt;br&gt;14の時代で繁栄していた生物とその頂点、進化の大爆発と大量絶滅を紹介したいと思っています。&lt;br&gt;&lt;br&gt;取り急ぎ開発できた部分は原生代をモデルにした細菌の時代です。&lt;br&gt;生物を取り込む生物を操作して、酸素を吐き出す葉緑体を倒すことでゲームクリアになります。&lt;br&gt;プロテオバクテリアを取り込んで酸素に耐性を得る必要があります。&lt;br&gt;このゲームの全体像と細菌時代のストーリー案を後述いたします。&lt;br&gt;盲腸治療や開発に時間をかけてしまいアプリ、PDFファイル共にデザインが稚拙になってしまいました。&lt;br&gt;申し訳ありませんが、実際にプレイしていただき雰囲気を感じていただけたら幸いです。&lt;br&gt;何卒よろしくお願い致します。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
+        <mxCell id="Z0QKppk-NlhrFME5SWek-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;初めて応募させていただきます。藤本 凌と申します。&lt;br&gt;開発者によるYoutubeの投稿で今回の募集を拝見しました。&lt;br&gt;負けられない思いから一つのスマホアプリゲームを開発しました。&lt;br&gt;細菌から様々な生物に進化することをコンセプトとしたゲームです。&lt;br&gt;14の時代で繁栄していた生物とその頂点、進化の大爆発と大量絶滅を紹介したいと思っています。&lt;br&gt;&lt;br&gt;取り急ぎ開発できた部分は原生代をモデルにした細菌の時代です。&lt;br&gt;生物を取り込む生物を操作して、酸素を吐き出す葉緑体を倒すことでゲームクリアになります。&lt;br&gt;プロテオバクテリアを取り込んで酸素に耐性を得る必要があります。&lt;br&gt;このゲームの全体像と細菌時代のストーリー案を後述いたします。&lt;br&gt;開発に時間をかけてしまいアプリ、PDFファイル共にデザインが稚拙になってしまいましたが、&lt;br&gt;実際にプレイしていただき雰囲気を感じていただけたら幸いです。&lt;br&gt;何卒よろしくお願い致します。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="80" width="730" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Z0QKppk-NlhrFME5SWek-4" value="&lt;font style=&quot;font-size: 25px&quot;&gt;開発環境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="360" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QKppk-NlhrFME5SWek-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;言語:&lt;/b&gt; Swift&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;プラットフォーム: &lt;/b&gt;スマホアプリ(ios)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;プログラミング、画像編集を私個人で行っております。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;余裕があればアンドロイド用も開発したいと思います。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
+        <mxCell id="Z0QKppk-NlhrFME5SWek-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;言語:&lt;/b&gt; Swift&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;プラットフォーム: &lt;/b&gt;スマホアプリ(ios)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;プログラミング、画像編集を私個人で行っております。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;余裕があればアンドロイド用にUnityやKotlinなども勉強&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;したいと思います。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="420" width="690" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Z0QKppk-NlhrFME5SWek-6" value="&lt;font style=&quot;font-size: 25px&quot;&gt;細菌時代のストーリー案&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="590" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QKppk-NlhrFME5SWek-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;食糧のリンが不足している時代で原核生物から4つの生物が生まれました。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;他の生物を取り入れることで食糧不足を解決しようとする真核生物&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;二酸化炭素から、毒とエネルギーを生成するシアノバクテリア&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;毒である酸素からエネルギーを生成するプロテオバクテリア&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;成長している真核生物の核をすり替え自分の体にする古細菌&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;酸素を克服し仇である葉緑体を倒して今回はゲームクリアです。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;温暖化により氷が解け食糧であるリンが全ての生物に行き渡り、ハッピーエンドになります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;食糧が増えることによりいけなかったエリアにも行けるようになります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;栄養素が存在しなかったところに行くと、そこに住む巨大な生物に食べられるイベントを用意しました。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
+        <mxCell id="Z0QKppk-NlhrFME5SWek-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;食糧のリンが不足している時代で原核生物から4つの生物が生まれました。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;他の生物を取り入れることで食糧不足を解決しようとする真核生物&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;二酸化炭素から、毒とエネルギーを生成するシアノバクテリア&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;毒である酸素からエネルギーを生成するプロテオバクテリア&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;成長している真核生物の核をすり替え自分の体にする古細菌&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;酸素を克服し仇である葉緑体を倒して今回はゲームクリアです。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;温暖化により氷が解け食糧であるリンが全ての生物に行き渡り、ハッピーエンドになります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;食糧が増えることによりいけなかったエリアにも楽に行けるようになります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;栄養素が存在しなかったところに行くと、そこに住む巨大な生物に食べられるイベントを用意しました。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="650" width="730" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Z0QKppk-NlhrFME5SWek-8" value="&lt;font style=&quot;font-size: 25px&quot;&gt;このゲームの全体像&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="920" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QKppk-NlhrFME5SWek-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;このゲームは14の時代の様々な生物(例:細菌,魚,恐竜)を成長進化させることがコンセプトです。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;初めて生物を食べたり見たり移動することで、進化や時代の切り替わりが可能になります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;登場する植物や古細菌以外の全ての生物に進化できるようにします。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;生物や障害物に個別ギミック(例:ダッシュ,生成,耐性,飛翔)を複数想定しております。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;それぞれの時代ごとに大きな問題(進化の大爆発や大量絶滅)があります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;説明や数値のかわりにゲージ表示などで対応しています。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
+        <mxCell id="Z0QKppk-NlhrFME5SWek-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;このゲームは14の時代の様々な生物(例:細菌,魚,恐竜)を成長進化させることがコンセプトです。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;初めて生物を食べたり見たり移動することで、進化や時代の切り替わりが可能になります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;登場する植物や古細菌以外の全ての生物に進化できるようにします。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;生物や障害物に個別ギミック(例:ダッシュ,罠生成,耐性,飛翔)を複数想定しております。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;それぞれの時代ごとに大きな問題(進化の大爆発や大量絶滅)があります。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;説明や数値のかわりにアニメーションやゲージ表示などで対応します。&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="Z0QKppk-NlhrFME5SWek-1" vertex="1">
           <mxGeometry x="20" y="980" width="730" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Bau7FTkN70S3Zy_T6Uq_" name="ページ5">
-    <mxGraphModel dx="852" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="F12FNPaklkZpg-c2JIv0-0" />
         <mxCell id="F12FNPaklkZpg-c2JIv0-1" parent="F12FNPaklkZpg-c2JIv0-0" />
